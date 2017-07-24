@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Theme Designer</string>
+    <string name="title_activity_listing">ListingActivity</string>
+</resources>
